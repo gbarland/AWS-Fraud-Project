@@ -41,7 +41,7 @@ S3-Bucket Definition
 <br>
 <div align="left">
   <a>
-    <img src="S3/S3-Buckets.jpg" alt="fraud" width="749">
+    <img src="S3/S3-Buckets.jpg" alt="fraud" width="900">
   </a>
 </div>
 <br>
@@ -49,7 +49,7 @@ S3 Folder Structure
 <br>
 <div align="left">
   <a>
-    <img src="S3/S3-Data.jpg" alt="fraud" width="749">
+    <img src="S3/S3-Data.jpg" alt="fraud" width="900">
   </a>
 </div>
 
@@ -63,7 +63,7 @@ Once model is built, it can be deployed to create an endpoint, this endpoint can
 <br>
 <div align="left">
   <a>
-    <img src="sagemaker/EndpointLocation.png" alt="fraud" width="749">
+    <img src="sagemaker/EndpointLocation.png" alt="fraud" width="900">
   </a>
 </div>
 <br>
@@ -71,12 +71,12 @@ Once model is built, it can be deployed to create an endpoint, this endpoint can
 <br>
 <div align="left">
   <a>
-    <img src="sagemaker/Postman-Authorization.jpg" alt="fraud" width="749">
+    <img src="sagemaker/Postman-Authorization.jpg" alt="fraud" width="900">
   </a>
 </div>
 <div align="left">
   <a>
-    <img src="sagemaker/Postman-Body.jpg" alt="fraud" width="749">
+    <img src="sagemaker/Postman-Body.jpg" alt="fraud" width="900">
   </a>
 </div>
 
@@ -85,7 +85,25 @@ Quicksight is the final stage of visualization and allows us to build a dashboar
 
 <div align="left">
   <a>
-    <img src="QuickSight/Dashboard-Example-1.png" alt="QuickSight" width="2000">
+    <img src="QuickSight/Dashboard-Example1.png" alt="QuickSight" width="900">
+  </a>
+</div>
+
+<div align="left">
+  <a>
+    <img src="QuickSight/Dashboard-Example2.png" alt="QuickSight" width="900">
+  </a>
+</div>
+
+<div align="left">
+  <a>
+    <img src="QuickSight/Dashboard-Example3.png" alt="QuickSight" width="900">
+  </a>
+</div>
+
+<div align="left">
+  <a>
+    <img src="QuickSight/Dashboard-Example4.png" alt="QuickSight" width="900">
   </a>
 </div>
 
