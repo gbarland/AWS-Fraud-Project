@@ -5,9 +5,10 @@ This project describes how Amazon S3, Amazon SageMaker and Amazon QuickSight can
 ### Why Fraud?
 <div align="left">
   <a>
-    <img src="Presentation/fraud_info.png" alt="fraud" width="418" height="454">
+    <img src="Presentation/fraud_info.png" alt="fraud" width="600">
   </a>
 </div>
+
 In 2021, credit card fraud grew to the largest ever, with 393,207 reports of credit card fraud filed. This poses a major risk for lenders and borrowers alike, and cloud based analytics are a great solution to uncover this problem.
 
 # Dataset
@@ -27,7 +28,7 @@ In order to run the full gamut of data storage, data processing, and data visual
 
 <div align="left">
   <a>
-    <img src="Presentation/data_pipeline.png" alt="fraud" width="749" height="181">
+    <img src="Presentation/data_pipeline.png" alt="fraud" width="900">
   </a>
 </div>
 
@@ -40,7 +41,7 @@ S3-Bucket Definition
 <br>
 <div align="left">
   <a>
-    <img src="S3/S3-Buckets.jpg" alt="fraud" width="749" height="160">
+    <img src="S3/S3-Buckets.jpg" alt="fraud" width="749">
   </a>
 </div>
 <br>
@@ -48,7 +49,7 @@ S3 Folder Structure
 <br>
 <div align="left">
   <a>
-    <img src="S3/S3-Data.jpg" alt="fraud" width="749" height="260">
+    <img src="S3/S3-Data.jpg" alt="fraud" width="749">
   </a>
 </div>
 
@@ -62,7 +63,7 @@ Once model is built, it can be deployed to create an endpoint, this endpoint can
 <br>
 <div align="left">
   <a>
-    <img src="sagemaker/EndpointLocation.png" alt="fraud" width="749" height="290">
+    <img src="sagemaker/EndpointLocation.png" alt="fraud" width="749">
   </a>
 </div>
 <br>
@@ -70,12 +71,12 @@ Once model is built, it can be deployed to create an endpoint, this endpoint can
 <br>
 <div align="left">
   <a>
-    <img src="sagemaker/Postman-Authorization.jpg" alt="fraud" width="749" height="290">
+    <img src="sagemaker/Postman-Authorization.jpg" alt="fraud" width="749">
   </a>
 </div>
 <div align="left">
   <a>
-    <img src="sagemaker/Postman-Body.jpg" alt="fraud" width="749" height="290">
+    <img src="sagemaker/Postman-Body.jpg" alt="fraud" width="749">
   </a>
 </div>
 
@@ -84,7 +85,7 @@ Quicksight is the final stage of visualization and allows us to build a dashboar
 
 <div align="left">
   <a>
-    <img src="QuickSight/Dashboard-Example-1.png" alt="QuickSight" width="2000" height="500">
+    <img src="QuickSight/Dashboard-Example-1.png" alt="QuickSight" width="2000">
   </a>
 </div>
 
